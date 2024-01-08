@@ -5,3 +5,4 @@ master added line 3
 line by master
 line by dev
 line 1 by master
+line1 by dev
