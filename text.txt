@@ -1,4 +1,4 @@
-master added line1
+i master added line1
 master added line 1
 dev branch added line 3
 master added line 3
@@ -6,3 +6,4 @@ line by master
 line by dev
 line 1 by master
 line1 by dev
+apple
