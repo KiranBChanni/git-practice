@@ -2,3 +2,5 @@ apple by master
 ball by master
 cat by feature
 dog by master
+dog by feature
+elepfh by master
